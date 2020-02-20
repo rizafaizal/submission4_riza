@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">List Films</string>
+    <string name="ubah_bahasa">Change Language</string>
+    <string name="tab_movies">Movies</string>
+    <string name="tab_tvshow">TV Show</string>
+    <string name="tab_favorite">Favorite</string>
+    <string name="tab_favorite_movie">Movies</string>
+    <string name="tab_favorite_tvshow">TV Show</string>
+    <string name="bar_detail_film">Detail Film</string>
+    <string name="deskripsi_detail">Overview</string>
+    <string name="kamu_pilih">You Choose :</string>
+    <string name="language">en-US</string>
+    <string name="poster_film">Poster Film</string>
+    <string name="favorite_delete">Remove Favorite</string>
+    <string name="favorite_add">Add Favorite</string>
+    <string name="favorite_success">Success</string>
+    <string name="favorite_failed">Failed</string>
+</resources>

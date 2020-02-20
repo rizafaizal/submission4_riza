@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daftar Film</string>
+    <string name="ubah_bahasa">Ubah Bahasa</string>
+    <string name="tab_movies">Film</string>
+    <string name="tab_tvshow">Tayangan TV</string>
+    <string name="tab_favorite">Disukai</string>
+    <string name="tab_favorite_movie">Film</string>
+    <string name="tab_favorite_tvshow">Tayangan TV</string>
+    <string name="bar_detail_film">Detil Film</string>
+    <string name="deskripsi_detail">Dekripsi</string>
+    <string name="kamu_pilih">Kamu memilih :</string>
+    <string name="language">id-ID</string>
+    <string name="poster_film">Spanduk Film</string>
+    <string name="favorite_delete">Batalkan Favorit</string>
+    <string name="favorite_add">Favoritkan</string>
+    <string name="favorite_success">Berhasil</string>
+    <string name="favorite_failed">Gagal</string>
+</resources>
